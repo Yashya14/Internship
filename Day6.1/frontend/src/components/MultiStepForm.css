@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.multi-step-form {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+  /* padding: 20px; */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 2px 2px 2px 2px red; */
+}
+
+::placeholder {
+  font-size: 0.8em;
+}
+
+.labelStar {
+  color: red;
+}
+
+/* tabs */
+.nav-tabs .nav-link {
+  color: black !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: blue !important;
+}
+
+/* next btn */
+/* .custom-btn {
+  padding:0; 
+  align-self: flex-start !important; 
+} */
+
+/* tab
+.custom-tab {
+  color: black !important;
+}
+
+.custom-tab-active {
+  color: blue !important;
+} */
+
+/* react-data table */
+/* .data-table {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.data-table-header {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+.data-table-row {
+  &:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+}
+
+.data-table-cell {
+  padding: 10px;
+} */
+
+.data-table {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

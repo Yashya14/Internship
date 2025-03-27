@@ -1,0 +1,27 @@
+[
+    {
+        "id": "tab5",
+        "name": "Experience",
+        "index": 4
+    },
+    {
+        "id": "tab4",
+        "name": "Skills",
+        "index": 3
+    },
+    {
+        "id": "tab2",
+        "name": "Education",
+        "index": 1
+    },
+    {
+        "id": "tab1",
+        "name": "Personal Details",
+        "index": 0
+    },
+    {
+        "id": "tab3",
+        "name": "Address",
+        "index": 2
+    }
+]

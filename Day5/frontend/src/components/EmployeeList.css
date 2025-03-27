@@ -1,0 +1,50 @@
+/* Custom styles for DataTable */
+.dataTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dataTable th {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #000000; /* Change this to black */
+    color: white; /* Optional: Change text color for better contrast */
+    padding: 8px;
+  }
+  
+  .dataTable td {
+    padding: 8px;
+  }
+  
+  @media (max-width: 768px) {
+    .dataTable th {
+      font-size: 14px;
+      padding: 4px;
+    }
+    .dataTable td {
+      font-size: 12px;
+      padding: 4px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .dataTable th {
+      font-size: 12px;
+      padding: 2px;
+    }
+    .dataTable td {
+      font-size: 10px;
+      padding: 2px;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .dataTable th {
+      font-size: 10px;
+      padding: 1px;
+    }
+    .dataTable td {
+      font-size: 8px;
+      padding: 1px;
+    }
+  }

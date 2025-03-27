@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* container styling */
+.multi-step-container {
+  padding: 1rem;
+  max-width: 100vw;
+}
+
+/*for smaller devices */
+@media (max-width: 576px) {
+  .multi-step-container {
+    padding: 0.5rem;
+  }
+
+  .responsive-tabs .nav-link {
+    font-size: 0.85rem;
+  }
+}
+
+/* Style the progress bar 
+.progress-bar {
+  height: 8px;
+  border-radius: 10px;
+} */
+
+/* Tabs for small screens */
+.responsive-tabs .nav-item {
+  flex: 1;
+  text-align: center;
+}
+
+.responsive-tabs .nav-link {
+  font-size: 1rem;
+}
+
+/* Form input responsiveness */
+form input,
+form select,
+form textarea {
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+form button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+/* Ensure the form components are always centered */
+@media (max-width: 768px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  form button {
+    width: 100%; /* Buttons span full width on small screens */
+  }
+}

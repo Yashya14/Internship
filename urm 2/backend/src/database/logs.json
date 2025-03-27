@@ -1,0 +1,200 @@
+{
+  "logs": [
+    {
+      "date": "02/12/2025 11:42:16 PM",
+      "user": "Admin",
+      "action": "Added User",
+      "status": "Success",
+      "details": "Added new user John Doe"
+    },
+    {
+      "date": "02/13/2025 10:45:08 AM",
+      "user": "Admin",
+      "action": "Added User",
+      "status": "Success",
+      "details": "Added new user Aditya Mukharji"
+    },
+    {
+      "date": "02/13/2025 10:48:22 AM",
+      "user": "Admin",
+      "action": "Added User",
+      "status": "Success",
+      "details": "Added new user akshay kale"
+    },
+    {
+      "date": "02/13/2025 10:49:40 AM",
+      "user": "Admin",
+      "action": "Updated User",
+      "status": "Success",
+      "details": "Updated user Aditya Mukharji"
+    },
+    {
+      "date": "02/13/2025 10:49:54 AM",
+      "user": "Admin",
+      "action": "Deleted User",
+      "status": "Success",
+      "details": "Deleted user Aditya Mukharji"
+    },
+    {
+      "date": "02/13/2025 10:50:52 AM",
+      "user": "Admin",
+      "action": "Added Role",
+      "status": "Success",
+      "details": "Added new role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 10:51:21 AM",
+      "user": "Admin",
+      "action": "Updated Role",
+      "status": "Success",
+      "details": "Updated role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 10:51:55 AM",
+      "user": "Admin",
+      "action": "Deleted Role",
+      "status": "Success",
+      "details": "Deleted role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 10:52:17 AM",
+      "user": "Admin",
+      "action": "Deleted Role",
+      "status": "Success",
+      "details": "Deleted role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 10:53:39 AM",
+      "user": "Admin",
+      "action": "Assigned Role",
+      "status": "Success",
+      "details": "Assigned role 0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y to user j901f1d-312e-4503-b276-92bf002b662e"
+    },
+    {
+      "date": "02/13/2025 10:53:48 AM",
+      "user": "Admin",
+      "action": "Updated Role Assignment",
+      "status": "Success",
+      "details": "Updated Eve Foster to role CTO"
+    },
+    {
+      "date": "02/13/2025 10:54:02 AM",
+      "user": "Admin",
+      "action": "Deleted Role Assignment",
+      "status": "Success",
+      "details": "Deleted Hank Ivy with role Legal Advisor"
+    },
+    {
+      "date": "02/13/2025 10:57:11 AM",
+      "user": "Admin",
+      "action": "Deleted Role",
+      "status": "Success",
+      "details": "Deleted role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 10:57:29 AM",
+      "user": "Admin",
+      "action": "Deleted Role",
+      "status": "Success",
+      "details": "Deleted role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 11:02:46 AM",
+      "user": "Admin",
+      "action": "Deleted Role",
+      "status": "Success",
+      "details": "Deleted role undefined undefined"
+    },
+    {
+      "date": "02/13/2025 04:29:03 PM",
+      "user": "Admin",
+      "action": "Assigned Roles",
+      "status": "Success",
+      "details": "Assigned roles d4c10c75-4b32-463a-854d-c17a2b25be67, f6c10c75-4b32-463a-854d-c17a2b25be69 to user k012f1d-312e-4503-b276-92bf002b662e"
+    },
+    {
+      "date": "02/13/2025 04:37:26 PM",
+      "user": "Admin",
+      "action": "Assigned Roles",
+      "status": "Success",
+      "details": "Assigned roles d4c10c75-4b32-463a-854d-c17a2b25be67, f6c10c75-4b32-463a-854d-c17a2b25be69 to user 226065d0-cc11-4107-87a9-960ddcc1f5e0"
+    },
+    {
+      "date": "02/13/2025 04:43:21 PM",
+      "user": "Admin",
+      "action": "Assigned Roles",
+      "status": "Success",
+      "details": "Assigned roles u3c10c75-4b32-463a-854d-c17a2b25be84, y7c10c75-4b32-463a-854d-c17a2b25be88 to user l123f1d-312e-4503-b276-92bf002b662e"
+    },
+    {
+      "date": "02/13/2025 04:59:05 PM",
+      "user": "Admin",
+      "action": "Assigned Roles",
+      "status": "Success",
+      "details": "Assigned roles Backend Developer, Frontend Developer to user akshay kale"
+    },
+    {
+      "date": "02/13/2025 04:59:32 PM",
+      "user": "Admin",
+      "action": "Deleted Role Assignment",
+      "status": "Success",
+      "details": "Deleted assign user John Doe with roles Backend Developer, Frontend Developer"
+    },
+    {
+      "date": "02/13/2025 05:00:14 PM",
+      "user": "Admin",
+      "action": "Updated Role Assignment",
+      "status": "Success",
+      "details": "Updated Ivy Jones with new roles e9c10c75-4b32-463a-854d-c17a2b25be63"
+    },
+    {
+      "date": "02/13/2025 05:01:31 PM",
+      "user": "Admin",
+      "action": "Updated Role Assignment",
+      "status": "Success",
+      "details": "Updated Jack King with new roles CFO"
+    },
+    {
+      "date": "02/13/2025 05:25:11 PM",
+      "user": "Admin",
+      "action": "Updated Role",
+      "status": "Success",
+      "details": "Updated role QA Engineer"
+    },
+    {
+      "date": "02/13/2025 05:25:28 PM",
+      "user": "Admin",
+      "action": "Updated Role",
+      "status": "Success",
+      "details": "Updated role Data Scientist"
+    },
+    {
+      "date": "02/13/2025 05:25:39 PM",
+      "user": "Admin",
+      "action": "Updated Role",
+      "status": "Success",
+      "details": "Updated role Product Manager"
+    },
+    {
+      "date": "02/13/2025 05:50:24 PM",
+      "user": "Admin",
+      "action": "Deleted User",
+      "status": "Success",
+      "details": "Deleted user John Doe"
+    },
+    {
+      "date": "02/14/2025 03:09:58 PM",
+      "user": "Admin",
+      "action": "Added User",
+      "status": "Success",
+      "details": "Added new user Rajat Kumar"
+    },
+    {
+      "date": "02/17/2025 03:59:42 PM",
+      "user": "Admin",
+      "action": "Assigned Roles",
+      "status": "Success",
+      "details": "Assigned roles Frontend Developer, UX Designer to user Frank Green"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+    "roles": [
+        {
+            "roleName": "CTO",
+            "roleDescription": "Responsible for the company's overall technology strategy and vision, overseeing all technical teams.",
+            "roleType": "Executive",
+            "status": "Active",
+            "id": "e9c10c75-4b32-463a-854d-c17a2b25be63"
+        },
+        {
+            "roleName": "CEO",
+            "roleDescription": "Chief Executive Officer, responsible for the overall vision and direction of the company.",
+            "roleType": "Executive",
+            "status": "Active",
+            "id": "a1c10c75-4b32-463a-854d-c17a2b25be64"
+        },
+        {
+            "roleName": "CFO",
+            "roleDescription": "Chief Financial Officer, responsible for managing the company's finances.",
+            "roleType": "Executive",
+            "status": "Active",
+            "id": "b2c10c75-4b32-463a-854d-c17a2b25be65"
+        },
+        {
+            "roleName": "Backend Developer",
+            "roleDescription": "Develop and maintain server-side logic.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "d4c10c75-4b32-463a-854d-c17a2b25be67"
+        },
+        {
+            "roleName": "Project Manager",
+            "roleDescription": "Oversee project progress and manage team.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "e5c10c75-4b32-463a-854d-c17a2b25be68"
+        },
+        {
+            "roleName": "Frontend Developer",
+            "roleDescription": "Develop and maintain client-side applications.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "f6c10c75-4b32-463a-854d-c17a2b25be69"
+        },
+        {
+            "roleName": "DevOps Engineer",
+            "roleDescription": "Manage infrastructure and deployment pipelines.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "g7c10c75-4b32-463a-854d-c17a2b25be70"
+        },
+        {
+            "roleName": "QA Engineer",
+            "roleDescription": "Ensure the quality of software through testing.",
+            "roleType": "FullTime",
+            "status": "inactive",
+            "id": "h8c10c75-4b32-463a-854d-c17a2b25be71"
+        },
+        {
+            "roleName": "Data Scientist",
+            "roleDescription": "Analyze and interpret complex data.",
+            "roleType": "FullTime",
+            "status": "inactive",
+            "id": "i9c10c75-4b32-463a-854d-c17a2b25be72"
+        },
+        {
+            "roleName": "Product Manager",
+            "roleDescription": "Define product vision and strategy.",
+            "roleType": "FullTime",
+            "status": "inactive",
+            "id": "j1c10c75-4b32-463a-854d-c17a2b25be73"
+        },
+        {
+            "roleName": "UX Designer",
+            "roleDescription": "Design user experiences.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "k2c10c75-4b32-463a-854d-c17a2b25be74"
+        },
+        {
+            "roleName": "System Administrator",
+            "roleDescription": "Manage and maintain IT infrastructure.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "l3c10c75-4b32-463a-854d-c17a2b25be75"
+        },
+        {
+            "roleName": "Network Engineer",
+            "roleDescription": "Design and manage network systems.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "m4c10c75-4b32-463a-854d-c17a2b25be76"
+        },
+        {
+            "roleName": "Security Analyst",
+            "roleDescription": "Ensure the security of systems and data.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "n5c10c75-4b32-463a-854d-c17a2b25be77"
+        },
+        {
+            "roleName": "Database Administrator",
+            "roleDescription": "Manage and maintain databases.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "o6c10c75-4b32-463a-854d-c17a2b25be78"
+        },
+        {
+            "roleName": "Business Analyst",
+            "roleDescription": "Analyze business processes and requirements.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "p7c10c75-4b32-463a-854d-c17a2b25be79"
+        },
+        {
+            "roleName": "Scrum Master",
+            "roleDescription": "Facilitate Agile processes.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "q8c10c75-4b32-463a-854d-c17a2b25be80"
+        },
+        {
+            "roleName": "Technical Writer",
+            "roleDescription": "Create technical documentation.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "r9c10c75-4b32-463a-854d-c17a2b25be81"
+        },
+        {
+            "roleName": "IT Support Specialist",
+            "roleDescription": "Provide technical support to users.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "s1c10c75-4b32-463a-854d-c17a2b25be82"
+        },
+        {
+            "roleName": "Cloud Engineer",
+            "roleDescription": "Design and manage cloud infrastructure.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "t2c10c75-4b32-463a-854d-c17a2b25be83"
+        },
+        {
+            "roleName": "AI Engineer",
+            "roleDescription": "Develop and implement AI solutions.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "u3c10c75-4b32-463a-854d-c17a2b25be84"
+        },
+        {
+            "roleName": "Mobile Developer",
+            "roleDescription": "Develop and maintain mobile applications.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "v4c10c75-4b32-463a-854d-c17a2b25be85"
+        },
+        {
+            "roleName": "Game Developer",
+            "roleDescription": "Design and develop video games.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "w5c10c75-4b32-463a-854d-c17a2b25be86"
+        },
+        {
+            "roleName": "Blockchain Developer",
+            "roleDescription": "Develop and maintain blockchain applications.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "x6c10c75-4b32-463a-854d-c17a2b25be87"
+        },
+        {
+            "roleName": "Machine Learning Engineer",
+            "roleDescription": "Develop and implement machine learning models.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "y7c10c75-4b32-463a-854d-c17a2b25be88"
+        },
+        {
+            "roleName": "Sales Engineer",
+            "roleDescription": "Support sales teams with technical expertise.",
+            "roleType": "FullTime",
+            "status": "Active",
+            "id": "z8c10c75-4b32-463a-854d-c17a2b25be89"
+        }
+    ]
+}

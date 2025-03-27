@@ -1,0 +1,98 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.content.collapsed {
+  margin-left: 80px;
+  transition: margin-left 0.3s;
+}
+
+/* list user details container */
+.list-container {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 2px 2px 2px 2px red; */
+}
+
+/* Remove border-radius and focus styles */
+/* .form-control {
+  border-radius: 2px !important;
+  
+}  */
+
+/* modal body */
+.modal-body {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.form-control {
+  border-color: #cdcfd1;
+}
+
+.form-control:focus {
+  outline: none !important;
+  border: 2px solid blue !important;
+  box-shadow: none !important;
+}
+
+.form-control::placeholder {
+  /* color: #b0b0b0; */
+  font-size: 0.7rem;
+}
+
+/* radio button */
+.form-check-inline {
+  display: inline-block;
+  margin-right: 0.3rem;
+}
+
+hr {
+  padding: 0;
+  margin: 0;
+}
+
+/* required feilds */
+.required-feilds {
+  color: #ff0000;
+}
+
+/* react data table */
+/* table header */
+.fokyca{
+  min-height: 40px !important;
+}
+
+.rdt_TableRow {
+  cursor: pointer;
+}
+
+.rdt_TableRow:hover {
+  background-color: rgba(8, 8, 222, 0.1) !important;
+}
+
+/* custom-spinner for table  */
+.custom-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 6rem;
+}
+
+
+@media(max-width:996px){
+  .custom-modal{
+    height: 95%;
+  }
+}
+@media (max-width: 576px) {
+  .custom-modal {
+    height: 95%;
+  }
+}

@@ -1,0 +1,56 @@
+.stat-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    height: 100%;
+    /* padding: 1rem; */
+    
+}
+
+.stat-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.stat-card-title {
+    font-size: 1rem;
+}
+
+.stat-card-value {
+    font-size: 1.5rem;
+}
+
+.display-4{
+   margin: 0;
+}
+
+/* admin-dashboard > activity log table */
+
+.activity-logs-table{
+    transition: transform 0.2s, box-shadow 0.2s;
+    height: 100%;
+}
+
+
+
+.activity-logs-table:hover{
+    transform: scale(1.03);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    -webkit-transform: scale(1.03);
+    -moz-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    -o-transform: scale(1.03);
+}
+
+@media (max-width: 576px) {
+    .stat-card {
+        padding: 0.25rem !important;
+    }
+
+    .stat-card-title {
+        font-size: 0.875rem;
+    }
+
+    .stat-card-value {
+        font-size: 1.25rem;
+    }
+}
+
